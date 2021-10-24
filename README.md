@@ -1,13 +1,4 @@
-👋 Hii I'm @Simran
-
-👀I'm interested in Python 
-
-📌I'm currently learning python, Django
-
-📫 How to reach me
-https://www.linkedin.com/in/simran-t
-
-### Hello world, I'm [Simran T](https://www.linkedin.com/in/simran-t/) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hello, I'm [Simran T](https://www.linkedin.com/in/simran-t/) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 👀I'm interested in Python
 
