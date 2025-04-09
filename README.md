@@ -2,7 +2,7 @@
 
 👀I'm interested in Python
 
-📌I'm currently learning python, Django
+📌I'm currently learning python
 
 * 📫 How to reach me:
 
